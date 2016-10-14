@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When we initialize a repo we can see all the un commited files which can be committed to that repo. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area has the files temporary stored to be commited. it is great to combine similar files which can be committed together.

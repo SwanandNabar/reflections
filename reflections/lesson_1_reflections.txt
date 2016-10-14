@@ -1,0 +1,22 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Using diff is a good option on terminal where we can instantly compare two files and check the bug instead of going through the whole code manually.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+It is good for a programmer to know that he can access the old versions of the file to compare the development in the code over time and then introduce some new ideas in the code. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+It is better to commint manually than automatic since we can save when we know there are reasonable changes in the file. The cons are that one may forget to save the commit and only remember to commit after a major change over course of a week. This will destroy the purpose of commit changes.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+It is a better version control system since we can save multiple files in each commit. This is less time consuming rather than saving each file seperately and this will help to track changes using the recent commit Id's
+
+How can you use the commands git log and git diff to view the history of files?
+use the git log to search for the commits and the using two id's of the files to commit use git diff to check the diff in the files
+
+How might using version control make you more confident to make changes that could break something?
+using version control I can point out to the exact commit which introduced the bug and change it and commit again. This prevents the other files from being deleted and we can easily change code without affecting other code and having to go through the lines of codes again. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Everything related to coding. But the colors are same as before and I followed all steps correctly. Double checked it.  
+
+
